@@ -1,8 +1,8 @@
 h1 {
-    color: red;
-    
+    color: rgb(202, 201, 243);
 }
 
 p {
     font-family: Georgia;
+    line-height: 1.3em;
 }
