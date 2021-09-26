@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(202, 201, 243);
+    color: rgb(161, 160, 229);
 }
 
 h4 {
@@ -10,4 +10,9 @@ h4 {
 
 img {
     float: right;
+}
+
+div {
+    width: 600px;
+    length: 100px;
 }
