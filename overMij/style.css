@@ -1,20 +1,24 @@
-h4 {
+* {
+    border: 1px solid red;
+  }
+  
+  h4 {
     font-family: Georgia;
     line-height: 1.3em;
     color:aqua;
-}
+  }
 
 img {
     float: right;
-}
+  }
 
 div {
     width: 600px;
     length: 100px;
-}
+  }
 
 p { 
     color: red;
-}
+  }
 
 
