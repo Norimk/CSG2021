@@ -5,4 +5,9 @@ h1 {
 h4 {
     font-family: Georgia;
     line-height: 1.3em;
+    color:aqua;
+}
+
+img {
+    float: right;
 }
