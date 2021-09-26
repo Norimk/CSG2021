@@ -1,24 +1,11 @@
-* {
-    border: 1px solid red;
-  }
-  
-  h4 {
-    font-family: Georgia;
-    line-height: 1.3em;
-    color:aqua;
-  }
+p {
+    color:cadetblue;
+}
 
-img {
-    float: right;
-  }
+.ul {
+    color:darkgoldenrod;
+}
 
-div {
-    width: 600px;
-    length: 100px;
-  }
-
-p { 
-    color: red;
-  }
-
-
+#article-title {
+    font-family:cursive;
+}
