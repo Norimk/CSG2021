@@ -1,5 +1,21 @@
 h1 {
-    color:green;
+    color:rgb(91, 136, 91);
+    font-family: cursive;
    }
+
+   .p {
+       font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   h4 {
+       font-style: oblique;
+       color:rgb(73, 88, 73);
+   }
+
+   * {
+       background-color:rgb(223, 223, 223)
+   }
+   
+   
 
 
