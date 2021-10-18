@@ -10,7 +10,7 @@ body {
 }
 
 li {
-    font-size: 2.0rem;
+    font-size: 20px;
     width: 200px;
     color: #111;
     background-color: #AAA;
@@ -30,17 +30,6 @@ li {
     margin: 0px 20px;
 }
 
-.verticaal {
-    margin-top: 20px;
-    background-color: red;
-    float: left;
-}
-
-.verticaal li {
-    display: block;
-    text-align: right;
-    margin: 20px 0px;
-}
 
 a {
     text-decoration: none;
