@@ -9,34 +9,16 @@ body {
     background-color: #111;
 }
 
-li {
-    font-size: 20px;
-    width: 200px;
-    color: #111;
-    background-color: #AAA;
-    padding: 5px 15px;
-    margin: 2px 0;
-}
 
-.horizontaal {
+#container {
     margin: 20px auto;
     background-color: blue;
     float: right;
 }
 
-.horizontaal li {
-    display: inline-block;
-    text-align: center;
-    margin: 0px 20px;
-}
-
 
 a {
     text-decoration: none;
-    color: #333;
-}
-
-a:hover, li:hover {
-    background-color: #CCC;
-    font-variant: small-caps;
+    color: rgb(170, 15, 15);
+    max-height: 10px;
 }
