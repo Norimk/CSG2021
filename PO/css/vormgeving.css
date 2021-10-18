@@ -1,42 +1,53 @@
-html, body {
+* {
     padding: 0;
     margin: 0;
 }
 
 body {
-    background: #a79084;
-    color: #c8c3bf;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-  
-}
-
-body {
-    background-color:antiquewhite;
+    font-size: 62,5%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 12px;
-    /* MERK OP: de body heeft standaard een margin */
-    margin: 1px;
+    background-color: #111;
 }
 
-.container {
+li {
+    font-size: 2.0rem;
+    width: 200px;
+    color: #111;
+    background-color: #AAA;
+    padding: 5px 15px;
+    margin: 2px 0;
+}
+
+.horizontaal {
+    margin: 20px auto;
     background-color: red;
-    width:1000px;
-    padding:20px;
-    margin: 5px;
-    text-align: justify;
-    display: flex;
-    border: 3px dotted #CCC;
+    float: right;
 }
 
-.box {
-    background-color:lavender;
-    margin: 10px;
-    /* met de klok mee van boven naar rechts naar onder naar links */
-    padding: 30px 20px 10px 20px;
-    border: 1px solid #999;
+.horizontaal li {
+    display: inline-block;
+    text-align: center;
+    margin: 0px 20px;
 }
 
-.h1 {
-    height: 5px;
+.verticaal {
+    margin-top: 20px;
+    background-color: red;
+    float: left;
+}
+
+.verticaal li {
+    display: block;
+    text-align: right;
+    margin: 20px 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover, li:hover {
+    background-color: #CCC;
+    font-variant: small-caps;
 }
