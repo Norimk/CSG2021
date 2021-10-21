@@ -58,4 +58,6 @@ h1 {
    border-style: solid;
    border-width: 10px;
    border-color:rgba(90, 39, 26, 0.808);
+   margin: 0 auto; 
+   display: block;
   }
