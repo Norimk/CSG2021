@@ -6,8 +6,9 @@ body {
 }
 
 #container {
-    background-color: rgba(31, 90, 26, 0.808);
+    background-color: rgba(90, 39, 26, 0.808);
     text-align: center;
+    width: 10px;
 }
 
 .box {
@@ -53,9 +54,8 @@ h1 {
     color:rgb(5, 5, 5);
   }
 
-  .image {
-    background-image: url("https://www.google.com/search?q=vlag+vietnam&rlz=1CAVHDQ_enNL893&sxsrf=AOaemvLCNGd0t90bFDdd6oVYRkc6lV_tmA:1634736923924&tbm=isch&source=iu&ictx=1&fir=lkJ-pL4kUg0FzM%252CwPDiD0mEgSrrUM%252C%252Fm%252F02c1m_&vet=1&usg=AI4_-kRdYlbPeziF_IaFTCDEgK3FGFdJNg&sa=X&ved=2ahUKEwj675rNjdnzAhXDC-wKHYSCD3wQ_B16BAg9EAI&cshid=1634736942236837&biw=1616&bih=791&dpr=1.19#imgrc=lkJ-pL4kUg0FzM");
-    background-size: cover;
-    background-position: center;
-    height: 300px;
+  .img {
+   border-style: solid;
+   border-width: 10px;
+   border-color:rgba(90, 39, 26, 0.808);
   }
