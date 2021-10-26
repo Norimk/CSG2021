@@ -44,7 +44,7 @@ h1 {
 
   h4 {
       font-family:monospace;
-      font-size: 20px;
+      font-size: 15px;
   }
 
   [href*='natuur'] {
@@ -68,7 +68,9 @@ h1 {
     display: block;
     border:5px;
     border-style: solid;
-    border-color:rgb(19, 18, 18)
+    border-color:rgb(19, 18, 18);
+    height: 600px;
+    margin-top: 500px;
    
   }
 
@@ -89,6 +91,12 @@ h1 {
     font-size: 15px;
   }
 
-  h6 {
+
+  .box2 { 
+    margin-left: 30px;
+  }
+
+  h10 { 
     font-size: 20px;
+    font-family: cursive;
   }
