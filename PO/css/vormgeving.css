@@ -13,7 +13,6 @@ body {
     margin: 10px auto;
     display: flex;
     border: 2px solid;
-
 }
 
 .box {
@@ -24,29 +23,12 @@ body {
     font-size: 20px;
 }
 
-
-h1 {
-    border: 0,5px;
-    height: 10px;
-    width: 10px;
-    padding: 10px;
-}
-
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
   }
 
-  h3 {
-      font-family:cursive;
-      font-size: 10px;
-  }
-
-  h4 {
-      font-family:monospace;
-      font-size: 15px;
-  }
 
   [href*='natuur'] {
     color: rgb(5, 5, 5)
@@ -74,16 +56,6 @@ h1 {
     margin-top: 200px;
   }
 
-  h5 {
-    font-size: 20px;
-    font-family: cursive;
-    line-height: 50px;
-  }
-
-  h6 {
-    font-size: 40px;
-  }
-
   p {
     font-size: 15px;
     line-height: 15px;
@@ -93,25 +65,40 @@ h1 {
     font-size: 15px;
   }
 
-
   .box2 { 
     margin-left: 30px;
   }
 
-  h10 { 
-    font-size: 20px;
+  h1 {
+    font-size: 18px;
     font-family: cursive;
-    line-height: 100px;
+    line-height: 40px;
   }
 
-  h11 {
+  h2 {
     font-family: 'Playfair Display', serif;
     font-size: 20px;
     line-height: 10px;
   }
 
-  h12 {
-    font-size: 18px;
+  h3 {
+    font-size: 40px;
+  }
+
+  h4 { 
+    font-size: 20px;
     font-family: cursive;
-    line-height: 40px;
+    line-height: 100px;
+  }
+
+
+  h5 {
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 50px;
+  }
+
+
+  a { 
+    text-decoration: none;
   }
