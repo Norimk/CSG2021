@@ -87,3 +87,10 @@ body {
     text-decoration: none;
     color: #595958;
   }
+
+  li {
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+    width: 100%;
+  }
